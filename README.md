@@ -1,2 +1,5 @@
 # Thrust-Vector-Control
-3 DOF TVC using 2 motors
+This design is capable of movement across all three axis using 2 motors.
+![image](https://github.com/ronsys11/Thrust-Vector-Control/assets/84351843/6f707743-3ef4-4c3f-b6cb-381794a72ee9)
+
+
